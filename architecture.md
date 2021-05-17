@@ -24,7 +24,7 @@
 ## App Ärztin
 ### Technische Basis
 - Web App
-- Ziel: ist einfach zu installierende Browseranwendung
+- Ziel: ist einfach zu nutzende Browseranwendung
 
 ### Informationen, die vorgehalten werden
 - Grundinformationen zur Praxis (Name, Anschrift, Anfahrt)
